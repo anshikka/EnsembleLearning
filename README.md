@@ -1,4 +1,4 @@
-# EnsembleLearning
+# Ensemble Learning using XGBoost
 ## Overview  
 Using the agaricus dataset, we will examine different results from ensemble learning methods on cross-validation of our classification models.
 ### Goals 
